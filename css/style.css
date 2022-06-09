@@ -263,7 +263,7 @@ h6 {
 
 @media(max-width: 650px) {
   .level__column {
-    margin-left: 20px;
+    margin-left: 0px;
   }
 }
 
